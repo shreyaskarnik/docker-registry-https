@@ -1,1 +1,1 @@
-# https-docker-registry-proxy
+# docker-registry-https
